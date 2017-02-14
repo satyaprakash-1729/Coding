@@ -1,0 +1,3 @@
+/home/mathayus/potus/opencv/release/projs/CMakeFiles/rebuild_cache.dir
+/home/mathayus/potus/opencv/release/projs/CMakeFiles/edit_cache.dir
+/home/mathayus/potus/opencv/release/projs/CMakeFiles/temp.dir
